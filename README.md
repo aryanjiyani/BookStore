@@ -6,18 +6,6 @@ I have used React &amp; Typescript for the frontend development as well as Dotne
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## For the installation of Formik, Yup and react-router-dom...
-
-## `yarn add formik`
-
-It used for the validation in react.
-
-## `yarn add yup`
-
-It also used for the validation in react but it simplified the coding.
-
-## `yarn add react-router-dom`
-
 for the particular version of react-router-dom you can run command with '@<version> --save' at the last.
 
 ## Available Scripts
@@ -31,6 +19,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+    
+## For the installation of Formik, Yup and react-router-dom...
+
+# `yarn add formik`
+
+It used for the validation in react.
+
+# `yarn add yup`
+
+It also used for the validation in react but it simplified the coding.
+
+# `yarn add react-router-dom`
 
 ### `yarn test`
 
